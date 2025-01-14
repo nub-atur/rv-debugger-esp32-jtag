@@ -40,9 +40,9 @@ chmod +x ./setup.sh
 ./setup.sh
 ```
 ### If you prefer manual configuration, perform the following steps:
-Copy **sipeed.cfg** to:
+- Copy **sipeed.cfg** to:
 $HOME\.platformio\packages\tool-openocd-esp32\share\openocd\scripts\interface\ftdi
-Copy **esp-wrover-kit-IB.json** to:
+- Copy **esp-wrover-kit-IB.json** to:
 $HOME\.platformio\platforms\espressif32\boards
 
 ---
